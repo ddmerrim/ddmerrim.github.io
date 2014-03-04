@@ -1,4 +1,4 @@
-MikeSchroll.github.io
+Danny Merriman's Read Me github.com
 =====================
 
 Your Public Site
